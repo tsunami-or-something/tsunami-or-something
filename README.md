@@ -18,7 +18,7 @@ oh yeah the fancy images that have stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=tsunami-or-something&show_icons=true&theme=tokyonight) 
 
-![Profile views](https://gpvc.arturio.dev/[tsunami-or-something])
+![Profile views](https://gpvc.arturio.dev/github-profile-tsunami-or-something)
 
 
 
