@@ -3,9 +3,9 @@
 Im a tsunami.
 Wow!
 
-I dont use github i just have it cuz the cool kids do ¯\_(ツ)_/¯
+I dont use github i just have it cuz the cool kids do `¯\_(ツ)_/¯`
 
-im a mega noob at programming (mega ¯\_(ツ)_/¯ )
+im a mega noob at programming (mega `¯\_(ツ)_/¯` )
 
 replit profile:
 https://repl.it/@TsunamiOrSumth
