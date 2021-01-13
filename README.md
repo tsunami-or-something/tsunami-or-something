@@ -14,7 +14,10 @@ discord: actually tsunami#6808
 
 what else :|
 
-oh yeah the fancy images that have ![stats](https://github-readme-stats.vercel.app/api?username=tsunami-or-something&show_icons=true&theme=synthwave) 
+oh yeah the fancy images that have stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=tsunami-or-something&show_icons=true&theme=synthwave) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsunami-or-something&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
