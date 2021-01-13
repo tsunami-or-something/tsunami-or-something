@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**tsunami-or-something/tsunami-or-something** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a tsunami.
+Wow!
 
-Here are some ideas to get you started:
+I dont use github i just have it cuz the cool kids do ¯\_(ツ)_/¯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+im a mega noob at programming (mega ¯\_(ツ)_/¯ )
+
+replit profile:
+https://repl.it/@TsunamiOrSumth
+
+discord: actually tsunami#6808
+
+what else :|
+
+oh yeah the fancy images that have ![stats](https://github-readme-stats.vercel.app/api?username=tsunami-or-something&show_icons=true&theme=synthwave) 
+
+
+
+
