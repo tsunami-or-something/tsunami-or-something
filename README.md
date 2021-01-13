@@ -10,7 +10,7 @@ im a mega noob at programming (mega `¯\_(ツ)_/¯` )
 replit profile:
 https://repl.it/@TsunamiOrSumth
 
-discord: actually tsunami#6808
+discord: `actually tsunami#6808`
 
 what else :|
 
